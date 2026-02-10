@@ -1,6 +1,5 @@
-
 ## About
-👋 Heyo, I'm Peter Lian. I'm a Software Engineer at Global Spark. I work on the HTG Portal Team. 
+👋 Heyo, I'm [Peter Lian](https://peterlian.com). I'm a CS student at uWaterloo and Software Engineer at Global Spark. I work on the HTG Portal Team. 
 - 📍 Location: Waterloo, Ontario
 - 🎓 Education: UWaterloo
 - 📅 Hacking Since: 2025
