@@ -4,3 +4,4 @@ Also helping to build [BuildBane](https://www.buildbane.com).
 - 📍 Location: Waterloo, Ontario
 - 🎓 Education: UWaterloo
 - 📅 Hacking Since: 2025
+-🤺 Fencer / ₿ Crypto Developer
