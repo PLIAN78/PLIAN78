@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hey, I'm <a href="https://peterlian.com" target="_blank">Peter Lian</a>
+## 👌 Hey, I'm <a href="https://peterlian.com" target="_blank">Peter Lian</a>
 
 ### 💻 Computer Science @ University of Waterloo · Builder · Hackathon Enjoyer
 
