@@ -16,7 +16,7 @@
 
 - I'm a **Computer Science student at the University of Waterloo**, interested in AI, full-stack engineering, Web3, AR/XR, and simulation systems.
 - Incoming **Student Developer, Business Engineering co-op @ [ABIC / Caivan](https://caivan.com/)** for Fall 2026.
-- Building **[BuildBane / BuildBuddies](https://www.buildbane.com/)**, a project-collaboration platform for students and builders.
+- Building **[BuildBane](https://www.buildbane.com/)**, a project-collaboration platform for students and builders.
 - Hackathon sponsorship coordinator at **[Hack the Valley](https://hackthevalley.io/)** and SWE Dev at**[Global Spark](https://globalspark.world/)**.
 - Founder of **[KrocoPrint LLC](https://krocoprint.com/)**, a small 3D-printing startup focused on custom prints, gadgets, and student/community orders.
 - Currently exploring **AI agents, multimodal systems, full-stack products, blockchain apps, and computer vision**.
