@@ -25,7 +25,7 @@
 
 ## Featured Projects
 
-### 🚀 BuildBane / BuildBuddies
+### 🚀 BuildBane
 A project-collaboration platform helping students find teammates, request to join projects, receive notifications, and chat with project members.
 
 **Tech:** Next.js, TypeScript, Apollo Client, GraphQL, Prisma, PostgreSQL, Redis, Clerk, Firebase, UploadThing, Railway
