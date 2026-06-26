@@ -15,10 +15,10 @@
 ## About Me
 
 - I'm a **Computer Science student at the University of Waterloo**, interested in AI, full-stack engineering, Web3, AR/XR, and simulation systems.
-- Incoming **Student Developer, Business Engineering co-op @ ABIC / Caivan** for Fall 2026.
-- Building **BuildBane / BuildBuddies**, a project-collaboration platform for students and builders.
-- Founder of **KrocoPrint LLC**, a small 3D-printing startup focused on custom prints, gadgets, and student/community orders.
-- I love hackathons, fast prototypes, and projects that mix software with real-world impact.
+- Incoming **Student Developer, Business Engineering co-op @ [ABIC / Caivan](https://caivan.com/)** for Fall 2026.
+- Building **[BuildBane / BuildBuddies](https://www.buildbane.com/)**, a project-collaboration platform for students and builders.
+- Hackathon sponsorship coordinator at **[Hack the Valley](https://hackthevalley.io/)** and SWE Dev at**[Global Spark](https://globalspark.world/)**.
+- Founder of **[KrocoPrint LLC](https://krocoprint.com/)**, a small 3D-printing startup focused on custom prints, gadgets, and student/community orders.
 - Currently exploring **AI agents, multimodal systems, full-stack products, blockchain apps, and computer vision**.
 
 ---
@@ -39,11 +39,6 @@ A hackathon project built around agentic workflows and Web3 interactions, develo
 Hierarchical reinforcement learning system for risk-aware portfolio management using macroeconomic signals and market regimes.
 
 **Tech:** Python, PPO, reinforcement learning, financial data, quantitative research
-
-### 🛡️ Security Copilot
-Multimodal deception-detection dashboard using ocular, kinetic, and cardiac signals to estimate deception probability in real time.
-
-**Tech:** FastAPI, WebSockets, Next.js, Supabase, computer vision, multimodal AI
 
 ### 🚗 Carify
 Vehicle-history proof system using canonical claims and blockchain-based verification.
