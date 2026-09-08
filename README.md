@@ -112,5 +112,5 @@ Vehicle-history proof system using canonical claims and blockchain-based verific
 
 I'm always down to talk about hackathons, startups, AI projects, full-stack ideas, Web3 experiments, or fencing tech.
 
-[Website](https://peterlian.com) - [GitHub](https://github.com/PLIAN78) - [LinkedIn](https://www.linkedin.com/in/peter-lian/) - [Email](mailto:contact@peterlian.com)
+[Website](https://peterlian.com) - [GitHub](https://github.com/PLIAN78) - [LinkedIn](https://www.linkedin.com/in/yishuolian/).
 
