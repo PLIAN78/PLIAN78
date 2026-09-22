@@ -1,8 +1,8 @@
 <div align="center">
 
-## 👌 Hey, I'm <a href="https://peterlian.com" target="_blank">Peter Lian</a>
+## Hey, I'm <a href="https://peterlian.com" target="_blank">Peter Lian</a>
 
-### 💻 Computer Science @ University of Waterloo · Builder · Hackathon Enjoyer
+###  Computer Science @ University of Waterloo · Builder · Hackathon Enjoyer
 
 ![Profile views](https://komarev.com/ghpvc/?username=PLIAN78&label=Profile%20views&color=0e75b6&style=flat)
 [![Website](https://img.shields.io/badge/Website-peterlian.com-blue)](https://peterlian.com)
