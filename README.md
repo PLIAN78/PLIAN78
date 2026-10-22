@@ -1,6 +1,6 @@
 <div align="center">
 
-# Peter Lian
+# Peter Lian 廉益硕
 
 **Computer Science @ University of Waterloo**  
 Software Engineering · AI · FinTech · Building Things
