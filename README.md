@@ -9,8 +9,6 @@ Software Engineering · AI · FinTech · Building Things
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yishuolian/)
 [![GitHub](https://img.shields.io/badge/GitHub-PLIAN78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PLIAN78)
 
-<img src="https://komarev.com/ghpvc/?username=PLIAN78&label=Profile+views&color=64748b&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
