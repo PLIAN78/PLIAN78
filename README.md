@@ -31,7 +31,7 @@ I'm a Computer Science student at the **University of Waterloo**, currently work
 <tr>
 <td width="50%" valign="top">
 
-#### MacroHRL
+#### [MacroHRL](https://oamtsptxvibjauhz.public.blob.vercel-storage.com/CUCAI2026/CUCAI2026_paper_id_34.pdf)
 **Risk-aware portfolio research**
 
 Hierarchical reinforcement learning for portfolio management using macroeconomic signals and market regimes.
@@ -65,7 +65,7 @@ Helps students discover projects, join teams, get notifications, and communicate
 </td>
 <td valign="top">
 
-#### Clarify
+#### [Carify](https://github.com/PLIAN78/Carify)
 **Verifiable vehicle-history records**
 
 Vehicle-history proof system using canonical claims and blockchain-based verification.
