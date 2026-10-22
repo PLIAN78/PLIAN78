@@ -1,116 +1,145 @@
 <div align="center">
 
-## Hey, I'm <a href="https://peterlian.com" target="_blank">Peter Lian</a>
+# Peter Lian
 
-###  Computer Science @ University of Waterloo · Builder · Hackathon Enjoyer
+**Computer Science @ University of Waterloo**  
+Software Engineering · AI · FinTech · Building Things
 
-![Profile views](https://komarev.com/ghpvc/?username=PLIAN78&label=Profile%20views&color=0e75b6&style=flat)
-[![Website](https://img.shields.io/badge/Website-peterlian.com-blue)](https://peterlian.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PLIAN78-181717?logo=github)](https://github.com/PLIAN78)
+[![Website](https://img.shields.io/badge/Portfolio-peterlian.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterlian.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yishuolian/)
+[![GitHub](https://img.shields.io/badge/GitHub-PLIAN78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PLIAN78)
+
+<img src="https://komarev.com/ghpvc/?username=PLIAN78&label=Profile+views&color=64748b&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## About Me
+### About
 
-- I'm a **Computer Science student at the University of Waterloo**, interested in AI, full-stack engineering, Web3, AR/XR, and simulation systems.
--  **Student Developer, Business Engineering co-op @ [ABIC / Caivan](https://abicbuilds.com//)** for Fall 2026.
-- Building **[BuildBane](https://www.buildbane.com/)**, a project-collaboration platform for students and builders.
-- Hackathon sponsorship coordinator at **[Hack the Valley](https://hackthevalley.io/)** and SWE Dev at **[Global Spark](https://globalspark.world/)**.
-- Founder of **[KrocoPrint LLC](https://krocoprint.com/)**, a small 3D-printing startup focused on custom prints, gadgets, and student/community orders.
-- Currently exploring **AI agents, multimodal systems, full-stack products, blockchain apps, and computer vision**.
+I'm a Computer Science student at the **University of Waterloo**, currently working as a **Student Developer, Business Engineering at [ABIC / Caivan](https://abicbuilds.com/)** (Fall 2026). I enjoy turning ideas into working products, from developer tools and financial systems to AI applications and student platforms.
 
----
+- **Building:** [BuildBane](https://www.buildbane.com/), a collaboration platform for student projects.
+- **Community:** Sponsorship Coordinator at [Hack the Valley](https://hackthevalley.io/) and Software Developer at [Global Spark](https://globalspark.world/).
+- **Entrepreneurship:** Founder of [KrocoPrint LLC](https://krocoprint.com/), focused on custom 3D printing.
+- **Exploring:** AI agents, quantitative finance, full-stack engineering, Web3, computer vision, and AR/XR.
 
-## Featured Projects
+### Selected Work
 
-### 🚀 BuildBane
-A project-collaboration platform helping students find teammates, request to join projects, receive notifications, and chat with project members.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Next.js, TypeScript, Apollo Client, GraphQL, Prisma, PostgreSQL, Redis, Clerk, Firebase, UploadThing, Railway
+#### [BuildBane](https://www.buildbane.com/)
+**Project collaboration platform**
 
-### 🧠 One-Agent
-A hackathon project built around agentic workflows and Web3 interactions, developed during ETHGlobal NYC with a team I met through the hackathon ecosystem.
+Helps students discover projects, join teams, get notifications, and communicate with collaborators.
 
-**Tech:** Solidity, Foundry, Vite, React, Dynamic Labs, Ethereum tooling
+`Next.js` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Redis`
 
-### 📈 MacroHRL
-Hierarchical reinforcement learning system for risk-aware portfolio management using macroeconomic signals and market regimes.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Python, PPO, reinforcement learning, financial data, quantitative research
+#### CIBC Challenge
+**Finance and technology challenge**
 
-### 🚗 Carify
+A challenge project exploring practical applications of technology in a financial-services setting. *Project details and repository link to be added.*
+
+`FinTech` `Problem Solving` `Product Development`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### One-Agent
+**Agentic workflows and Web3**
+
+Hackathon project developed at ETHGlobal NYC, bringing autonomous workflows together with blockchain interactions.
+
+`Solidity` `Foundry` `React` `Vite` `Ethereum`
+
+</td>
+<td valign="top">
+
+#### MacroHRL
+**Risk-aware portfolio research**
+
+Hierarchical reinforcement learning for portfolio management using macroeconomic signals and market regimes.
+
+`Python` `PPO` `Reinforcement Learning` `Quant Finance`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### Carify
+**Verifiable vehicle-history records**
+
 Vehicle-history proof system using canonical claims and blockchain-based verification.
 
-**Tech:** Next.js, Express, MongoDB, Multer, Solana, Phantom, SHA-256 proofs
+`Next.js` `Express` `MongoDB` `Solana` `SHA-256`
 
----
+</td>
+<td valign="top">
 
-## Tech Skills
+#### [KrocoPrint](https://krocoprint.com/)
+**Custom 3D printing business**
 
-### Languages
+Founded and operated a small venture serving custom print, gadget, and student/community orders.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+`3D Printing` `Product Development` `Entrepreneurship`
 
-### Frameworks & Libraries
+</td>
+</tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?logo=apollographql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+### Technologies
 
-### Databases, Cloud & DevOps
+**Languages**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382C?logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
+**Frameworks & AI**
 
-## GitHub Stats
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PLIAN78&show_icons=true&theme=one_dark_pro&hide_title=true&border_radius=20&hide_border=true" width="360px" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=PLIAN78&theme=one-dark-pro&border_radius=20&hide_border=true" width="400px" alt="GitHub streak" />
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PLIAN78&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=PLIAN78&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=PLIAN78&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLIAN78&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="47%" alt="Most-used languages" />
+
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLIAN78&layout=compact&langs_count=12&hide_title=true&theme=one_dark_pro&border_radius=20&hide_border=true" width="300px" alt="Top languages" />
-</div>
+### Connect
 
----
-
-## Let's Connect
-
-I'm always down to talk about hackathons, startups, AI projects, full-stack ideas, Web3 experiments, or fencing tech.
-
-[Website](https://peterlian.com) - [GitHub](https://github.com/PLIAN78) - [LinkedIn](https://www.linkedin.com/in/yishuolian/).
-
+I enjoy collaborating on hackathons, startup ideas, AI and full-stack projects, FinTech, Web3, and fencing technology. Reach out through [LinkedIn](https://www.linkedin.com/in/yishuolian/) or visit [peterlian.com](https://peterlian.com).
