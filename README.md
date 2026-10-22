@@ -20,6 +20,7 @@ Software Engineering · AI · FinTech · Building Things
 I'm a Computer Science student at the **University of Waterloo**, currently working as a **Student Developer, Business Engineering at [ABIC / Caivan](https://abicbuilds.com/)** (Fall 2026). I enjoy turning ideas into working products, from developer tools and financial systems to AI applications and student platforms.
 
 - **Building:** [BuildBane](https://www.buildbane.com/), a collaboration platform for student projects.
+- **Campus Ambassador:** [Adobe](https://www.adobe.com/) and [Backboard.io](https://backboard.io/), connecting students with creative tools and AI developer technologies.
 - **Community:** Sponsorship Coordinator at [Hack the Valley](https://hackthevalley.io/) and Software Developer at [Global Spark](https://globalspark.world/).
 - **Entrepreneurship:** Founder of [KrocoPrint LLC](https://krocoprint.com/), focused on custom 3D printing.
 - **Exploring:** AI agents, quantitative finance, full-stack engineering, Web3, computer vision, and AR/XR.
@@ -30,38 +31,6 @@ I'm a Computer Science student at the **University of Waterloo**, currently work
 <tr>
 <td width="50%" valign="top">
 
-#### [BuildBane](https://www.buildbane.com/)
-**Project collaboration platform**
-
-Helps students discover projects, join teams, get notifications, and communicate with collaborators.
-
-`Next.js` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Redis`
-
-</td>
-<td width="50%" valign="top">
-
-#### CIBC Challenge
-**Finance and technology challenge**
-
-A challenge project exploring practical applications of technology in a financial-services setting. *Project details and repository link to be added.*
-
-`FinTech` `Problem Solving` `Product Development`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### One-Agent
-**Agentic workflows and Web3**
-
-Hackathon project developed at ETHGlobal NYC, bringing autonomous workflows together with blockchain interactions.
-
-`Solidity` `Foundry` `React` `Vite` `Ethereum`
-
-</td>
-<td valign="top">
-
 #### MacroHRL
 **Risk-aware portfolio research**
 
@@ -70,11 +39,33 @@ Hierarchical reinforcement learning for portfolio management using macroeconomic
 `Python` `PPO` `Reinforcement Learning` `Quant Finance`
 
 </td>
+<td width="50%" valign="top">
+
+#### [Hack the Market — CIBC Challenge](https://github.com/PLIAN78/HacktheMarket)
+**AI-driven news sentiment trading strategy**
+
+Used Gemini to interpret financial news, generate trading signals, and backtest a risk-aware strategy. Tuned thresholds and holding periods using grid search.
+
+**Historical backtest (Jan–Jun 2023):** 32.71% total return · 3.46 Sharpe ratio · −4.56% max drawdown. Simulated, not live trading performance.
+
+`Python` `Gemini API` `LLMs` `Sentiment Analysis` `Backtesting`
+
+</td>
 </tr>
 <tr>
 <td valign="top">
 
-#### Carify
+#### [BuildBane](https://www.buildbane.com/)
+**Project collaboration platform**
+
+Helps students discover projects, join teams, get notifications, and communicate with collaborators.
+
+`Next.js` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Redis`
+
+</td>
+<td valign="top">
+
+#### Clarify
 **Verifiable vehicle-history records**
 
 Vehicle-history proof system using canonical claims and blockchain-based verification.
@@ -82,12 +73,14 @@ Vehicle-history proof system using canonical claims and blockchain-based verific
 `Next.js` `Express` `MongoDB` `Solana` `SHA-256`
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td valign="top" colspan="2">
 
 #### [KrocoPrint](https://krocoprint.com/)
 **Custom 3D printing business**
 
-Founded and operated a small venture serving custom print, gadget, and student/community orders.
+Founded and operated a venture providing custom prints, gadgets, and student/community orders.
 
 `3D Printing` `Product Development` `Entrepreneurship`
 
