@@ -25,18 +25,19 @@ I'm a Computer Science student at the **University of Waterloo**, currently work
 - **Exploring:** AI agents, quantitative finance, full-stack engineering, Web3, computer vision, and AR/XR.
 
 ---
-
 ### Impact that Matters
 
 ```diff
-- 70%   AWS compute costs at Definity      → 118 idle hours/week eliminated
-+ 40%   RAG retrieval accuracy             → 7,000+ items, hybrid pgvector + BM25
-- 80%   non-compliant recommendations      → GPT-4o-mini post-retrieval filtering
-+ 10x   vector search precision            → FlashRank re-ranking + HNSW indexing
-! 25+   daily active users                 → Goosedyssey Chrome extension
++ 60%   project discovery search          → BuildBane search & team matching
+- 40%   manual input coordination         → BuildBane automated requests & notifications
+- 50%   manual data entry                 → CaivanOS ERP workflow automation
++ 35%   faster business operations        → CaivanOS internal tools & HRM systems
++ 2x    faster event coordination         → Global Spark software workflows
+! 32.71% simulated portfolio return      → Hack the Market · 3.46 Sharpe ratio
 ```
 
 ---
+
 
 ### Selected Work
 
