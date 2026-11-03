@@ -1,3 +1,4 @@
+ 
 <div align="center">
 
 # Peter Lian 廉益硕
@@ -22,6 +23,20 @@ I'm a Computer Science student at the **University of Waterloo**, currently work
 - **Community:** Sponsorship Coordinator at [Hack the Valley](https://hackthevalley.io/) and Software Developer at [Global Spark](https://globalspark.world/).
 - **Entrepreneurship:** Founder of [KrocoPrint LLC](https://krocoprint.com/), focused on custom 3D printing.
 - **Exploring:** AI agents, quantitative finance, full-stack engineering, Web3, computer vision, and AR/XR.
+
+---
+
+### Impact that Matters
+
+```diff
+- 70%   AWS compute costs at Definity      → 118 idle hours/week eliminated
++ 40%   RAG retrieval accuracy             → 7,000+ items, hybrid pgvector + BM25
+- 80%   non-compliant recommendations      → GPT-4o-mini post-retrieval filtering
++ 10x   vector search precision            → FlashRank re-ranking + HNSW indexing
+! 25+   daily active users                 → Goosedyssey Chrome extension
+```
+
+---
 
 ### Selected Work
 
@@ -117,19 +132,6 @@ Founded and operated a venture providing custom prints, gadgets, and student/com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PLIAN78&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=PLIAN78&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=PLIAN78&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLIAN78&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="47%" alt="Most-used languages" />
-
-</div>
 
 ### Connect
 
