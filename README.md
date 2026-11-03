@@ -28,13 +28,15 @@ I'm a Computer Science student at the **University of Waterloo**, currently work
 ### Impact that Matters
 
 ```diff
-+ 60%   project discovery search          → BuildBane search & team matching
-- 40%   manual input coordination         → BuildBane automated requests & notifications
-- 50%   manual data entry                 → CaivanOS ERP workflow automation
-+ 35%   faster business operations        → CaivanOS internal tools & HRM systems
-+ 2x    faster event coordination         → Global Spark software workflows
-! 32.71% simulated portfolio return      → Hack the Market · 3.46 Sharpe ratio
++ 60%   reduction in project search latency    → BuildBane indexed queries & server-side filtering
+- 40%   fewer manual database operations       → BuildBane GraphQL mutations & event-driven notifications
+- 50%   reduction in manual ERP data entry     → CaivanOS automated business workflows
++ 35%   reduction in feature processing time   → CaivanOS internal workflow optimization
++ 2x    faster event registration processing   → Global Spark automated submission workflows
+! 32.71% simulated portfolio return           → Hack the Market · 3.46 Sharpe ratio
 ```
+
+---
 
 ---
 
